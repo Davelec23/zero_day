@@ -1,4 +1,3 @@
-# Vagrant Optional Assignment
-* Astrikes are used for listing
-* Hash symobl are used for header
-* Number are used for listing numbers
+# Vagrant optional Assignment
+* Asteriks are used for listing item
+* Hash are used for header
